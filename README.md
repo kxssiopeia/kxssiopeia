@@ -3,7 +3,6 @@ I'm Kasio, just a person trynna learn coding stuff
 - I'm currently trying to run a Jellyfin media Server
 - I'm currently trying to learn how to make websites
 - I'm looking for help with linux distros
-- How to reach me 📫: Twitter @KasioCasio
 - Pronouns: Any
 - Fun Fact: I'm doing online school
 <!--
